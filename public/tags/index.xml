@@ -5,23 +5,6 @@
         <link>http://localhost:1313/tags/</link>
         <description>Recent content in Tags on Digital Nomad</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Thu, 18 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Blog</title>
-        <link>http://localhost:1313/tags/blog/</link>
-        <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/blog/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Firstpage</title>
-        <link>http://localhost:1313/tags/firstpage/</link>
-        <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/firstpage/</guid>
-        <description></description>
-        </item>
-        
+        <language>en-us</language><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

@@ -15,7 +15,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle:  I, pede fausto!
         avatar:
             enabled: true
             local: true
